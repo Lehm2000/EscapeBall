@@ -1,0 +1,12 @@
+*.sdf
+*.sln
+*.uproject
+*.suo
+Binaries/*
+Build/*
+Content/*
+Intermediate/*
+Saved/*
+
+
+
